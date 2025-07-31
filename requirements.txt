@@ -1,0 +1,45 @@
+# requirements.txt
+
+# Core libraries
+numpy
+pandas
+torch
+torchvision
+scipy
+sklearn
+pillow
+opencv-python
+
+# Data handling and visualization
+matplotlib
+seaborn
+pandas-profiling
+
+# Testing and validation
+pytest
+mock
+hypothesis
+coverage
+
+# Performance and optimization
+numba
+cython
+line_profiler
+memory_profiler
+
+# Integration and deployment
+docker
+flask
+gunicorn
+celery
+redis
+
+# Miscellaneous utilities
+tqdm
+requests
+beautifulsoup4
+
+# Specific versions can be pinned as needed, e.g.:
+# numpy==1.20.3
+# pandas==1.3.4
+# ...
